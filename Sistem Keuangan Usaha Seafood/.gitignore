@@ -1,0 +1,14 @@
+# Ignore Visual Studio temporary files, build results, and folders
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore data source files that may be regenerated
+*.xsd.cs
+*.Designer.cs
